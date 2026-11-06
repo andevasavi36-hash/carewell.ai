@@ -1,0 +1,8 @@
+streamlit>=1.40
+pandas
+requests
+supabase
+fastapi
+uvicorn
+pydantic
+pytest
